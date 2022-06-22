@@ -12,21 +12,21 @@ In object-oriented programming, the command pattern is a behavioral design patte
 </div>
   
 <div>
- - Step 1: Define Command.cs
- </div>
+- Step 1: Define Command.cs
+</div>
   
-  <div>
- - Step 2: Inherit class Command to define class MoveRight and class DoNothing
-   </div>
+<div>
+- Step 2: Inherit class Command to define class MoveRight and class DoNothing
+</div>
     
-    <div>
- - Note: The reason we created the DoNothing class is to cancel the function of a previously assigned key
-     </div>
+<div>
+- Note: The reason we created the DoNothing class is to cancel the function of a previously assigned key
+</div>
       
-      <div>
- - Step 3: Declare and use MoveRight, DoNothing
-       </div>
+<div>
+- Step 3: Declare and use MoveRight, DoNothing
+</div>
         
-        <div>
- - Finally, we just need to write the Input handler function in the Update function of the InputHandler
+<div>
+- Finally, we just need to write the Input handler function in the Update function of the InputHandler
 </div>
