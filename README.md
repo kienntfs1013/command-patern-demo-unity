@@ -13,7 +13,7 @@ In object-oriented programming, the command pattern is a behavioral design patte
   
 <div>
  - Step 1: Define Command.cs
- <div>
+ </div>
   
   <div>
  - Step 2: Inherit class Command to define class MoveRight and class DoNothing
