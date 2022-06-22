@@ -28,5 +28,5 @@ In object-oriented programming, the command pattern is a behavioral design patte
 </div>
         
 <div>
-- Finally, we just need to write the Input handler function in the Update function of the InputHandler
+- Finally, we just need to write the Input handler function in the Update function of the InputHandler.cs
 </div>
